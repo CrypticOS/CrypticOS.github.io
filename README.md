@@ -1,13 +1,12 @@
 ![Logo](https://raw.githubusercontent.com/CrypticOS/CrypticOS.github.io/master/logo.png)
 # CrypticOS
-CrypticOS is an operating system designed to be hackable,  
-around the "make it and keep it simple" philosophy.  
+CrypticOS is an operating system written in a custom bytecode,
+which can be emulated anywhere.  
 
-Currently, the smallest version of the operating system fits  
-in 256 bytes.  
+Currently, the smallest emulator fits in 256 bytes.  
 
-The operating system is based entirely around CINS. Read about  
-it here: https://github.com/CrypticOS/cins
+The bytecode is called CINS. Read about it here:  
+https://github.com/CrypticOS/cins
 
 ## History
 CrypticOS started out as an idea for a MIT Scratch operating system.  
