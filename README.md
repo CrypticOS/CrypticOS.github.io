@@ -1,7 +1,9 @@
 ![Logo](https://raw.githubusercontent.com/CrypticOS/CrypticOS.github.io/master/logo.png)
 # CrypticOS
-CrypticOS is an operating system written in a custom bytecode,
-which can be emulated anywhere.  
+CrypticOS is an operating system written in the most  
+difficult and bizarre way possible. It's implemented  
+in a custom assembly language, which runs on a  
+custom architecture.  
 
 Currently, the smallest emulator fits in 256 bytes.  
 
